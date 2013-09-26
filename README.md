@@ -6,7 +6,8 @@ Spec file for backport of OpenSSL 1.0.1 for CentOS 6
 
 Quick Summary:
 ==============
-Assuming you've built an RPM before. Download the Fedora Core 20 source rpm for openssl-1.0.1e.
+Assuming you've built an RPM before, download the Fedora Core 20 source rpm for openssl-1.0.1e.
+
 ````
 rpm -Uvh http://dl.fedoraproject.org/pub/fedora/linux/development/20/source/SRPMS/o/openssl-1.0.1e-19.fc20.src.rpm
 cd /usr/src/redhat/SOURCES/
